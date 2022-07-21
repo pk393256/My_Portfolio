@@ -2449,10 +2449,14 @@ input, select, textarea {
 	.skillsUsed>i{
 		font-size:x-large;
 	}
-	.myskillrow>img{
+	.myskill>div>img{
+
 		width:150px;
 		/* font-size:x-large; */
 	}
 	.stackUsed>img{
 		width:50px;
+	}
+	.myskill>div{
+		/* display: flex; */
 	}
